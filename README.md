@@ -21,8 +21,8 @@ This is a digital pet platform where users can create and manage their own virtu
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd Frontend-Animal-Test
+   git clone
+   cd tamagotchi-challenge
    ```
 2. Install dependencies:
    ```bash
